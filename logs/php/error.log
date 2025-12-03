@@ -1,1 +1,14 @@
 [03-Dec-2025 04:57:50 UTC] PHP Parse error:  syntax error, unexpected token "endwhile", expecting end of file in C:\Users\Hector\Local Sites\blog\app\public\wp-content\themes\blankslate\page-home.php on line 11
+[03-Dec-2025 06:29:08 UTC] PHP Warning:  Undefined variable $image in C:\Users\Hector\Local Sites\blog\app\public\wp-content\themes\blankslate\page-home.php on line 8
+[03-Dec-2025 06:29:08 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Hector\Local Sites\blog\app\public\wp-content\themes\blankslate\page-home.php on line 8
+[03-Dec-2025 06:29:08 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Hector\Local Sites\blog\app\public\wp-content\themes\blankslate\page-home.php on line 8
+[03-Dec-2025 06:36:11 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Hector\Local Sites\blog\app\public\wp-content\themes\blankslate\page-home.php on line 12
+[03-Dec-2025 06:43:42 UTC] PHP Warning:  Undefined variable $image in C:\Users\Hector\Local Sites\blog\app\public\wp-content\themes\blankslate\page-home.php on line 11
+[03-Dec-2025 06:43:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Hector\Local Sites\blog\app\public\wp-content\themes\blankslate\page-home.php on line 11
+[03-Dec-2025 06:43:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Hector\Local Sites\blog\app\public\wp-content\themes\blankslate\page-home.php on line 11
+[03-Dec-2025 06:43:54 UTC] PHP Warning:  Undefined variable $image in C:\Users\Hector\Local Sites\blog\app\public\wp-content\themes\blankslate\page-home.php on line 9
+[03-Dec-2025 06:43:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Hector\Local Sites\blog\app\public\wp-content\themes\blankslate\page-home.php on line 9
+[03-Dec-2025 06:43:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Hector\Local Sites\blog\app\public\wp-content\themes\blankslate\page-home.php on line 9
+[03-Dec-2025 06:44:10 UTC] PHP Warning:  Undefined variable $image in C:\Users\Hector\Local Sites\blog\app\public\wp-content\themes\blankslate\page-home.php on line 9
+[03-Dec-2025 06:44:10 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Hector\Local Sites\blog\app\public\wp-content\themes\blankslate\page-home.php on line 9
+[03-Dec-2025 06:44:10 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Hector\Local Sites\blog\app\public\wp-content\themes\blankslate\page-home.php on line 9
