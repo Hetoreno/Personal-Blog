@@ -188,7 +188,7 @@ body {
           flex-direction: column;
   position: fixed;
   left: 3%;
-  top: auto;
+  top: 30%;
   font-size: 5rem;
 }
 
